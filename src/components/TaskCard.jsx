@@ -5,7 +5,7 @@ import { Card, Link } from "@heroui/react";
 const TaskCard = ({ task }) => { 
     const {title, description, status } = task;
     return (
-    <Card variant="outline" className="w-[400px] bg-blue-950 mx-auto">
+    <Card variant="outline" className="w-[400px] bg-gray-200  mx-auto">
     {/*    <CircleDollar aria-label="Dollar sign icon" className="text-primary size-6" role="img" /> */}
       <Card.Header>
                 <Card.Title>{title}!</Card.Title>
