@@ -1,0 +1,43 @@
+
+ [
+    {
+      "id": 1,
+      "title": "Complete React project",
+      "description": "Finish building the food app with search and filter",
+      "status": "pending",
+      "priority": "high",
+      "dueDate": "2026-04-25"
+    },
+    {
+      "id": 2,
+      "title": "Study Next.js rendering",
+      "description": "Learn SSR, CSR, SSG, ISR concepts clearly",
+      "status": "in-progress",
+      "priority": "medium",
+      "dueDate": "2026-04-26"
+    },
+    {
+      "id": 3,
+      "title": "Fix bugs",
+      "description": "Resolve API and image loading issues",
+      "status": "pending",
+      "priority": "high",
+      "dueDate": "2026-04-23"
+    },
+    {
+      "id": 4,
+      "title": "Design UI",
+      "description": "Improve UI for plant and food cards",
+      "status": "completed",
+      "priority": "low",
+      "dueDate": "2026-04-20"
+    },
+    {
+      "id": 5,
+      "title": "Push to GitHub",
+      "description": "Commit and push latest changes",
+      "status": "pending",
+      "priority": "medium",
+      "dueDate": "2026-04-24"
+    }
+  ]
