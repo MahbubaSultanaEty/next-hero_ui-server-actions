@@ -1,5 +1,6 @@
+'use client'
 
-import { useTheme } from '@heroui/react';
+import { useTheme } from "next-themes";
 import {Sun, Moon} from "@gravity-ui/icons";
 import {Switch} from "@heroui/react";
 

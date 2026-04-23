@@ -1,3 +1,4 @@
+'use client'
 import { ThemeProvider } from "next-themes";
 import { Children } from "react";
 const NextThemesProviders = ({children}) => {
