@@ -64,7 +64,8 @@ const AddTask = ({ createATask }) => {
                     </Select.Popover>
                   </Select>
 
-                  <Select name="status" className="w-full" placeholder="Select one">
+                                  <Select name="status
+                  " className="w-full" placeholder="Select one">
                     <Label>Status</Label>
                     <Select.Trigger>
                       <Select.Value />
